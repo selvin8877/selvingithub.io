@@ -1,0 +1,2 @@
+// JavaScript básico para tu sitio
+console.log("Página cargada correctamente");

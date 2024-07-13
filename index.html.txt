@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Sitio Web</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Mi Sitio Web</h1>
+        <nav>
+            <ul>
+                <li><a href="#new">NEW</a></li>
+                <li><a href="#news">NEWS</a></li>
+                <li><a href="#photos">PHOTOS</a></li>
+                <li><a href="#videos">VIDEOS</a></li>
+                <li><a href="#shop">SHOP</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div id="new" class="section">
+        <h2>New</h2>
+        <p>Contenido sobre novedades.</p>
+    </div>
+
+    <div id="news" class="section">
+        <h2>News</h2>
+        <p>Últimas noticias y actualizaciones.</p>
+    </div>
+
+    <div id="photos" class="section">
+        <h2>Photos</h2>
+        <p>Galería de fotos.</p>
+    </div>
+
+    <div id="videos" class="section">
+        <h2>Videos</h2>
+        <p>Galería de videos.</p>
+    </div>
+
+    <div id="shop" class="section">
+        <h2>Shop</h2>
+        <p>Tienda online.</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Tu Nombre. Todos los derechos reservados.</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
